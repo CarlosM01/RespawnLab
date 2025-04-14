@@ -1,10 +1,8 @@
 # RespawnLab – Sitio Web Corporativo
-
 ¡Bienvenido al repositorio del sitio web de **RespawnLab**! Este proyecto experimental consiste en una landing page responsive que presenta los servicios de RespawnLab, una empresa dedicada a soluciones informáticas integrales: desarrollo de aplicaciones, ERP a medida, servicio técnico y ciberseguridad.
-
 ---
 
-## Vista previa
+## [Vista previa](https://respawn-lab.vercel.app/)
 
 ### Escritorio
 ![Vista de escritorio](/docs/images/desktop1.png) 
